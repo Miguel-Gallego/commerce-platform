@@ -86,9 +86,35 @@ S01 — Environment and professional workflow
 - main branch created
 - first commit created
 
-## Current task
+## Current checkpoint
 
-Connect repository to GitHub and establish Issue → Branch → Commit → PR → Merge workflow.
+S01 — Environment and professional workflow
+
+## Completed
+
+- macOS environment verified
+- Java 21 LTS available
+- Maven working
+- Git working
+- GitHub SSH configured
+- Docker CLI working
+- Colima working
+- Docker Engine verified
+- Docker Compose working
+- Docker Buildx working
+- curl working
+- IntelliJ available
+- Local repository initialized
+- GitHub remote configured
+- Initial project structure created
+- First Issue created
+- First branch created
+- First Pull Request created and merged
+- Main branch synchronized and clean
+
+## Current status
+
+S01 environment and basic GitHub workflow completed.
 
 ## Current blockers
 
@@ -96,4 +122,11 @@ None.
 
 ## Next checkpoint
 
-S01 — GitHub workflow and first SAVE POINT.
+S01.3 — Git fundamentals:
+- working tree
+- staging area
+- commits
+- diff
+- branches
+- merge
+- remote tracking
